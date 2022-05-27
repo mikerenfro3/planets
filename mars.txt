@@ -3,3 +3,4 @@ The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
 Here's a line that will be our first commit back to GitHub.
 We agreed to a completely different fifth line.
+And the owner added this sixth line.
